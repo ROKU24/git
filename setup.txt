@@ -25,3 +25,10 @@ git status -s
 git log --oneline
 
 ------------------------------------------------------- 
+
+Branching -- Duplicating main branch code and make changes to that copied branch.
+create branch-git branch branchname
+See all branches-git branch
+To go to branch-git switch branchname
+
+/////////////////////////////////////
