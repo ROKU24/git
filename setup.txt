@@ -1,0 +1,19 @@
+// To adding git config globally ///////////////////////
+
+$ git config --global user.name 'Rohit'
+$ git config --global user.email 'xyz@gmail.com'
+$ git config --global core.editor 'code --wait'
+$ git config --global core.autocrlf 'input'
+
+
+// To edit the configs ////////////////////////
+
+$ git config -e
+
+----------------------------------------------------------------------------------------------------------
+
+
+Stages-
+U- untracked
+A- Added or staged
+C- commited
