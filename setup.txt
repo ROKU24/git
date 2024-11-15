@@ -31,6 +31,8 @@ create branch-git branch branchname
 See all branches-git branch
 To go to branch-git switch branchname
 
+To crate branch and switch at same time-git switch -C branchname
+
 /////////////////////////////////////
 
 Merge
@@ -44,3 +46,17 @@ Merging Techniques
 5)Rebase and merge
 
 Mainly we use ff merge and 3 way merge
+
+---------------------------------------------------------
+
+Branch Deletion
+git branch -d branchname
+
+
+-------------------------------------------------------
+
+Stash-The git stash command takes your uncommitted changes (both staged and unstaged), saves them away for later use, and then reverts them from your working copy
+
+------------------------------------------------------------
+
+Test stash
