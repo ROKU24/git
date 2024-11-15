@@ -33,4 +33,14 @@ To go to branch-git switch branchname
 
 /////////////////////////////////////
 
+Merge
 To merge code with the branch you need to be in a main branch
+
+Merging Techniques
+1)fast forward merge
+2)three way merge
+3)squash merge
+4)recursive strategy merge
+5)Rebase and merge
+
+Mainly we use ff merge and 3 way merge
