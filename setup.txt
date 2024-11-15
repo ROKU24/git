@@ -32,3 +32,5 @@ See all branches-git branch
 To go to branch-git switch branchname
 
 /////////////////////////////////////
+
+To merge code with the branch you need to be in a main branch
